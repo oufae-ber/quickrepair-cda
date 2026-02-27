@@ -146,12 +146,8 @@ Dans Metabase → **Admin → Databases → Add database** :
 
 ---
 
-## ⚠️ Sécurité
 
-- Ne jamais committer le mot de passe réel dans GitHub
-- Utiliser des variables d'environnement en production
-- Le mot de passe affiché ici est masqué : `[YOUR-PASSWORD]`
 
----
+
 
 *Configuration établie par Ouafae Berhili — Groupe AMOU — CDA Bac+3 ESIC S1 2025-2026*
