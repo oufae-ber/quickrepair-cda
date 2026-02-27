@@ -1,1 +1,54 @@
 
+=========================================================
+C.1 — LIEN DÉPÔT GIT  |  QuickRepair France
+=========================================================
+
+Groupe         : AMOU
+Membres        : Ouafae Berhili & Amal Bouzaher
+Formation      : CDA Bac+3 — ESIC — Semestre 1 2025-2026
+
+---------------------------------------------------------
+LIEN DU DÉPÔT GITHUB
+---------------------------------------------------------
+
+https://github.com/oufae-ber/quickrepair-cda
+
+---------------------------------------------------------
+COLLABORATEUR AJOUTÉ
+---------------------------------------------------------
+
+jbanka@esic.fr  (invitation envoyée)
+
+---------------------------------------------------------
+CONTENU DU DÉPÔT
+---------------------------------------------------------
+
+MissionA_Organisation/
+  - sprint_planning.xlsx
+  - journal_de_bord.xlsx
+  - repartition_taches.xlsx
+
+MissionB_Prototype/
+  - sql/create_database.sql
+  - sql/insert_data.sql
+  - config/supabase_config.md
+
+MissionC_Technique/
+  - plan_tests_C2.xlsx
+  - guide_installation.pdf
+
+MissionD_Documentation/
+  - documentation_technique.pdf
+  - retrospective.pdf
+  - slides.pdf
+
+README.md
+
+---------------------------------------------------------
+IDENTITÉ GIT CONFIGURÉE
+---------------------------------------------------------
+
+Ouafae Berhili  →  beouafae@etudiant-esic.fr
+Amal Bouzaher   →  biamal@etudiant-esic.fr
+
+=========================================================
