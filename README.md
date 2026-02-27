@@ -9,8 +9,8 @@
 
 | Membre | Rôle | Email |
 |---|---|---|
-| **Ouafae Berhili** | Architecte BDD & Ingénieure BI | ouafae.berhili@etudiant-esic.fr |
-| **Amal Bouzaher** | Développeuse App & DevOps | amal.bouzaher@etudiant-esic.fr |
+| **Ouafae Berhili** | Architecte BDD & Ingénieure BI | beouafae@etudiant-esic.fr |
+| **Amal Bouzaher** | Développeuse App & DevOps | biamal@etudiant-esic.fr |
 
 **Groupe :** AMOU  
 **Encadrant :** J. Banka (jbanka@esic.fr)
